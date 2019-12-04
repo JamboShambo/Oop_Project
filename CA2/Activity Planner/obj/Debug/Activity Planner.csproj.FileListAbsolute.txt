@@ -1,0 +1,14 @@
+C:\Users\jamie\OneDrive - Institute of Technology Sligo\JAMIE_DONOHOE_S00189802\Year 2\Sem 1\OOP\CA2\CA2\Activity Planner\obj\Debug\Activity Planner.csprojAssemblyReference.cache
+C:\Users\jamie\OneDrive - Institute of Technology Sligo\JAMIE_DONOHOE_S00189802\Year 2\Sem 1\OOP\CA2\CA2\Activity Planner\obj\Debug\MainWindow.g.cs
+C:\Users\jamie\OneDrive - Institute of Technology Sligo\JAMIE_DONOHOE_S00189802\Year 2\Sem 1\OOP\CA2\CA2\Activity Planner\obj\Debug\App.g.cs
+C:\Users\jamie\OneDrive - Institute of Technology Sligo\JAMIE_DONOHOE_S00189802\Year 2\Sem 1\OOP\CA2\CA2\Activity Planner\obj\Debug\Activity Planner_MarkupCompile.cache
+C:\Users\jamie\OneDrive - Institute of Technology Sligo\JAMIE_DONOHOE_S00189802\Year 2\Sem 1\OOP\CA2\CA2\Activity Planner\obj\Debug\Activity Planner_MarkupCompile.lref
+C:\Users\jamie\OneDrive - Institute of Technology Sligo\JAMIE_DONOHOE_S00189802\Year 2\Sem 1\OOP\CA2\CA2\Activity Planner\bin\Debug\Activity Planner.exe.config
+C:\Users\jamie\OneDrive - Institute of Technology Sligo\JAMIE_DONOHOE_S00189802\Year 2\Sem 1\OOP\CA2\CA2\Activity Planner\bin\Debug\Activity Planner.exe
+C:\Users\jamie\OneDrive - Institute of Technology Sligo\JAMIE_DONOHOE_S00189802\Year 2\Sem 1\OOP\CA2\CA2\Activity Planner\bin\Debug\Activity Planner.pdb
+C:\Users\jamie\OneDrive - Institute of Technology Sligo\JAMIE_DONOHOE_S00189802\Year 2\Sem 1\OOP\CA2\CA2\Activity Planner\obj\Debug\MainWindow.baml
+C:\Users\jamie\OneDrive - Institute of Technology Sligo\JAMIE_DONOHOE_S00189802\Year 2\Sem 1\OOP\CA2\CA2\Activity Planner\obj\Debug\Activity Planner.g.resources
+C:\Users\jamie\OneDrive - Institute of Technology Sligo\JAMIE_DONOHOE_S00189802\Year 2\Sem 1\OOP\CA2\CA2\Activity Planner\obj\Debug\Activity_Planner.Properties.Resources.resources
+C:\Users\jamie\OneDrive - Institute of Technology Sligo\JAMIE_DONOHOE_S00189802\Year 2\Sem 1\OOP\CA2\CA2\Activity Planner\obj\Debug\Activity Planner.csproj.GenerateResource.cache
+C:\Users\jamie\OneDrive - Institute of Technology Sligo\JAMIE_DONOHOE_S00189802\Year 2\Sem 1\OOP\CA2\CA2\Activity Planner\obj\Debug\Activity Planner.exe
+C:\Users\jamie\OneDrive - Institute of Technology Sligo\JAMIE_DONOHOE_S00189802\Year 2\Sem 1\OOP\CA2\CA2\Activity Planner\obj\Debug\Activity Planner.pdb
